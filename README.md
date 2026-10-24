@@ -17,7 +17,6 @@ Skills I've built for Claude that turn repeat work into one-line requests. Each 
 ## Requirements
 
 - **job-radar:** a Gmail connection for delivery and access to scheduled tasks.
-- **category-summary:** Node.js and the `docx` package (`npm install -g docx`).
 
 ## About
 

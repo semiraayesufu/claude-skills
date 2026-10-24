@@ -12,7 +12,7 @@ Skills I've built for Claude that turn repeat work into one-line requests. Each 
 1. Download the skill's folder.
 2. Add it to Claude: upload the folder (or a zip of it) in Claude's skills settings, or place it in `~/.claude/skills/` for Claude Code.
 3. Read the skill's `README.md` for setup, including any **Make it yours** settings.
-4. Ask Claude in plain language, e.g. "set up my job radar" or "help me with my weekly report."
+4. Ask Claude in simple terms like "set up my job radar" or "help me with my weekly report."
 
 ## Requirements
 
